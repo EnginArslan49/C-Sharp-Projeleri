@@ -6,7 +6,7 @@
 
 C# programlama diliyle hazırlanmış temel algoritma ve uygulama örneklerini bir araya getiren bu depo, programlama mantığını geliştirmek, algoritmaların çalışma prensiplerini incelemek ve C# uygulamalarını keşfetmek amacıyla oluşturulmuştur.
 
-Proje; geometrik hesaplamalardan karakter işlemlerine, sayı hesaplamalarından temel algoritma örneklerine kadar farklı konularda çalışmalar içermektedir.
+Proje; geometrik hesaplamalardan karakter işlemlerine, sayı hesaplamalarından temel algoritma örneklerine kadar farklı konularda çalışmalar içermektedir. Ayrıca depo ana dizininde bulunan `EnginARSLAN-Ek-Projeler` klasörü altında Engin ARSLAN tarafından geliştirilen bağımsız projeler ve ek uygulama çalışmaları da paylaşılmaktadır.
 
 ---
 
@@ -15,6 +15,8 @@ Proje; geometrik hesaplamalardan karakter işlemlerine, sayı hesaplamalarından
 Proje, başlangıçta SN. Ayça Nursena KORKMAZ Hanım'ın kaynak kodlarının bulunduğu ve uygulamaların temel çalışma mantığını ortaya koyan bir yapıdaydı.
 
 **Engin ARSLAN'ın katkısıyla** mevcut kodların algoritmik yapısı ve çalışma mantığı değiştirilmeden, uygun noktalara açıklayıcı ve profesyonel yorum satırları eklendi. Böylece proje, yalnızca çalışan kod örneklerinden oluşan bir yapıdan, kodların işleyişinin de daha kolay anlaşılabildiği ve incelenebildiği bir kaynak hâline getirildi.
+
+Geliştirme sürecinde ayrıca Engin ARSLAN tarafından hazırlanan bağımsız projelerin ve ek uygulamaların paylaşılması amacıyla `EnginARSLAN-Ek-Projeler` klasörü oluşturuldu.
 
 ---
 
@@ -31,12 +33,15 @@ Proje, başlangıçta SN. Ayça Nursena KORKMAZ Hanım'ın kaynak kodlarının b
 | `SessizHarf` | Sessiz harf işlemleri |
 | `TerstenYazdir` | Tersten yazdırma uygulaması |
 | `UcgenCizme` | Üçgen çizme uygulaması |
+| `EnginARSLAN-Ek-Projeler` | Engin ARSLAN tarafından geliştirilen ek projeler ve bağımsız uygulamalar |
 
 ---
 
 ## Katkı ve Geliştirme Süreci
 
 Katkı kapsamında mevcut kaynak kodlar korunmuş, algoritmaların çalışma mantığına müdahale edilmeden kodların anlaşılmasını kolaylaştıracak yorum satırları eklenmiştir.
+
+Bunun yanı sıra `EnginARSLAN-Ek-Projeler` klasörü altında kişisel yazılım projeleri ve uygulama örnekleri paylaşılmaktadır. Bu klasör, ana proje kapsamındaki örneklerden bağımsız olarak geliştirilen çalışmaları bir araya getirmektedir.
 
 ## Yorum Satırlarının Önemi
 
@@ -69,6 +74,6 @@ Yorum satırları, kodların ne yaptığını ve belirli işlemlerin nasıl çal
 
 *Orijinal proje (repo) sahibi: Ayça Nursena KORKMAZ*
 
-*Dokümantasyon ve yorum satırı katkısı: Engin ARSLAN*
+*Dokümantasyon, yorum satırı katkısı ve ek projeler: Engin ARSLAN*
 
 </div>
