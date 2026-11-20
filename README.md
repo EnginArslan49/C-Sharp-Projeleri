@@ -1,5 +1,9 @@
 # C# Algoritma ve Uygulama Örnekleri
 
+<div align="center">
+![C# Görsel](https://www.kozmoslisesi.com/wp-content/uploads/2021/03/c-sharp-nedir.jpeg)
+</div>
+
 C# programlama diliyle hazırlanmış temel algoritma ve uygulama örneklerini bir araya getiren bu depo, programlama mantığını geliştirmek, algoritmaların çalışma prensiplerini incelemek ve C# uygulamalarını keşfetmek amacıyla oluşturulmuştur.
 
 Proje; geometrik hesaplamalardan karakter işlemlerine, sayı hesaplamalarından temel algoritma örneklerine kadar farklı konularda çalışmalar içermektedir.
